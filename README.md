@@ -1,2 +1,2 @@
 # rsschool-cv
-RSS-task
+ https://Gumerov-Marat.github.io/rsschool-cv/cv
