@@ -1,7 +1,6 @@
 # 		This document is a "Markdown & Git" assignment for Rolling-Scopes-School courses.
 * * *
 
-
 ## 	Junior Developer Resume.
 	
 *  ***Name, Surname:*** 
@@ -146,7 +145,7 @@
 
 *  ***education:*** 
 
-	- courses: JavaRush (for Java) Epam.Trening.by( for Java);	Hexlet (for Java, JS); 
+	- courses: JavaRush (for Java); Epam.Trening.by( for Java);	Hexlet (for Java, JS); learn JS (book-coorse);
 	- Htmlacademy (HTML/CSS/JS); codecademy (HTML/CSS); learn.javascript;
 	- online learning: I have access to many video courses, books, and materials. At the moment, I have focused on studying at the RSS.  And also I decided to practice more in code than to gain theoretical knowledge.   
 
