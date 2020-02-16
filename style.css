@@ -1,5 +1,6 @@
 body {
-  background-color: #bdabab;
+  background-color: black;
+  color: #ffffff;
   
 }
 
@@ -7,4 +8,43 @@ body {
   width: 100%;
   max-width: 1140px;
   margin: auto;
+}
+
+.header{
+   width: 100%;
+   background-image: url(/rsschool-cv/img/back3.png);
+   padding-bottom: 40px;
+}
+.avatar {
+  padding-top: 10px;
+}
+.img-avatar {
+   display: block;
+   margin: 50px auto;
+  border: 10px solid #fff;
+
+}
+h1 {
+  margin: 0;
+}
+.autor-info {
+  
+}
+
+.main-container {
+   width: 100%;
+   max-width: 1140px;
+   margin: auto;
+   background-image: url();
+}
+
+
+.img-avatar {
+  
+}
+h1 {
+  text-align:center;
+}
+h2 {
+  text-align:center;
 }
