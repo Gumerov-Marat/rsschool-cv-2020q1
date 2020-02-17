@@ -1,7 +1,6 @@
 body {
-  background-color: black;
+  background-color: #8eb8c3;
   color: #ffffff;
-  
 }
 
 .container {
@@ -14,6 +13,7 @@ body {
    width: 100%;
    background-image: url(/rsschool-cv/img/back3.png);
    padding-bottom: 40px;
+   border-radius: 10px;
 }
 .avatar {
   padding-top: 10px;
@@ -22,29 +22,37 @@ body {
    display: block;
    margin: 50px auto;
   border: 10px solid #fff;
-
 }
 h1 {
-  margin: 0;
-}
-.autor-info {
-  
-}
-
-.main-container {
-   width: 100%;
-   max-width: 1140px;
-   margin: auto;
-   background-image: url();
-}
-
-
-.img-avatar {
-  
-}
-h1 {
+  margin: 0.67em 0;
+  font-size: 2em;
   text-align:center;
 }
 h2 {
   text-align:center;
+}
+p {
+  margin: 0.5rem;
+  line-height: 1.4;
+}
+.summary,
+.contact,
+.technologies,
+.experience,
+.education {
+  background-image: url(/rsschool-cv/img/back3-R1.png);
+  border-radius: 10px;
+}
+.english {
+  background-image: url(/rsschool-cv/img/back3-R2.png);
+  border-radius: 10px;
+}
+.contact,
+.education,
+.technologies {
+   text-align: right;
+}
+
+ul li {
+  list-style: none;
 }
