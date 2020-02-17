@@ -1,10 +1,16 @@
 body {
-  background-color: #8eb8c3;
-  color: #ffffff;
+  
+  background: #348cb2 url("/rsschool-cv/img/back3.png") center;
+  background-size: cover;
+  font-family: 'Arial Black',  sans-serif;
+  font-style: normal;
+  font-weight: normal;
+
+  color: #2f2c2e;
 }
 
 .container {
-  width: 100%;
+  width: 95%;
   max-width: 1140px;
   margin: auto;
 }
@@ -21,7 +27,8 @@ body {
 .img-avatar {
    display: block;
    margin: 50px auto;
-  border: 10px solid #fff;
+  border: 10px solid rgb(182, 180, 180);
+  border-radius: 10px;
 }
 h1 {
   margin: 0.67em 0;
@@ -39,14 +46,14 @@ p {
 .contact,
 .technologies,
 .experience,
-.education {
-  background-image: url(/rsschool-cv/img/back3-R1.png);
-  border-radius: 10px;
-}
+.education,
 .english {
-  background-image: url(/rsschool-cv/img/back3-R2.png);
+  background: rgba(37, 147, 206, 0.465);
+  padding-right: 3%;
+  padding-left: 3%;
   border-radius: 10px;
 }
+
 .contact,
 .education,
 .technologies {
@@ -55,4 +62,20 @@ p {
 
 ul li {
   list-style: none;
+}
+span,
+.education a {
+  color: #2f2c2e;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+li>a:hover {
+  color: blue;
+}
+.english {
+  color: #2f2c2e;
 }
